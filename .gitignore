@@ -1,0 +1,18 @@
+# 工作日志和缓存
+.workbuddy/
+.mplt*
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时脚本
+fetch_data.py
+stock_analysis.py
+gen_dashboard.py
+gen_redesign.py
+
+# 小米相关文件（不推送）
+小米集团_*
+xiaomi_data.json
